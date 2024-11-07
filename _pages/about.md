@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-![nature-7175030_1920](../images/nature-7175030_1920.png)
+![nature-7175030_1920](../images/nature-7175030_1920.png)<br>  
 I am a dedicated Ph.D. candidate in Environmental Science at The University of Manchester, with a strong interest in data science and urban studies. My expertise lies in urban climate modeling, sustainable urban environments, and informed urban planning. My Ph.D. work centers on using data-driven approaches to address urban climate challenges, including capturing the dynamic interactions between urban and the atmosphere, and advancing models of urban surface features.
 
 
