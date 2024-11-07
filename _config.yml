@@ -6,10 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
-google_scholar_stats_use_cdn : true
+title                    : "Jiyang Xia (夏基洋)"
+description              : "I am a dedicated Ph.D. candidate in Environmental Science at The University of Manchester, with a strong interest in data science and urban studies. My expertise lies in urban climate modeling, sustainable urban environments, and data-informed urban planning. My Ph.D. work centers on using data-driven approaches to address urban climate challenges, including capturing the dynamic interactions between urban areas and the atmosphere, and advancing models of urban surface features."
+repository               : "Jiyang-Xia/Jiyang-Xia.github.io"
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
+  name             : "Jiyang Xia (夏基洋)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  bio              : "The University of Manchester"
+  location         : "Manchester, UK"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  googlescholar    : #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  email            : "jiyang.xia@postgrad.manchester.ac.uk"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "https://github.com/Jiyang-Xia"
   google_plus      :
   keybase          :
   instagram        :
