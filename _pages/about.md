@@ -21,16 +21,31 @@ I am a dedicated Ph.D. candidate in Environmental Science at The University of M
 
 
 # 🔥 News
+- *2025.05*: Oral presentation accepted for the 12th International Conference on Urban Climate (Session S1: Digital Twins, AI/ML, and Open Data Science for Urban Climate); presentation forthcoming.
+- *2025.03*: &nbsp;🎉🎉 Awarded the Doctoral Training and Development Support Fund by the University of Manchester!
 - *2024.11*: &nbsp;🎉🎉 My academic homepage is online!
 
 # 🗂 Projects 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Generative Adaptation of Urban Climate</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Urban Climate Adaptor]()
+
+**Jiyang Xia**,
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Automated LCZ Mapping Framework</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[AutoML-optimized LCZ Mapping Framework & Urban Climate Modeling]()
+
+**Jiyang Xia**, Yuan Sun, Fenghua Ling, Xinyue Ye, David Topping, Zhonghua Zheng
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Deep Learning</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Urban Climate Emulator]()
 
-**Jiyang Xia**, Fenghua Ling, Junjie Yu, Zhenhui Ni, Lei Bai, David Topping, Zhonghua Zheng
+**Jiyang Xia**, Fenghua Ling, Junjie Yu, Zhenhui Li, Lei Bai, David Topping, Zhonghua Zheng
 
 [**Key Points**]
 - 1. 
@@ -46,6 +61,7 @@ I am a dedicated Ph.D. candidate in Environmental Science at The University of M
 
 
 # 🎖 Honors and Awards
+- *2025.05* Doctoral Training and Development Support Fund by the University of Manchester
 - *2023.03* Excellent Postgraduate Students’ Award of Zhejiang Province (Top 1%)
 - *2022.11* Sophia Yang Scholarship of ZJU, 2021-2022 Academic Year (Top 1%)
 - *2022.10* Outstanding Postgraduate Award and “Triple-A” Student (academic records, morality, health) Award of ZJU
