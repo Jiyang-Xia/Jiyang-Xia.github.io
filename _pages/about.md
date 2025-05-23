@@ -31,7 +31,13 @@ I am a dedicated Ph.D. candidate in Environmental Science at The University of M
 
 [Urban Climate Adaptor]()
 
-**Jiyang Xia**,
+**Jiyang Xia**
+
+[**Key Points**]
+-
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Automated LCZ Mapping Framework</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -39,6 +45,12 @@ I am a dedicated Ph.D. candidate in Environmental Science at The University of M
 [AutoML-optimized LCZ Mapping Framework & Urban Climate Modeling]()
 
 **Jiyang Xia**, Yuan Sun, Fenghua Ling, Xinyue Ye, David Topping, Zhonghua Zheng
+
+[**Key Points**]
+- 
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Deep Learning</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -48,9 +60,7 @@ I am a dedicated Ph.D. candidate in Environmental Science at The University of M
 **Jiyang Xia**, Fenghua Ling, Junjie Yu, Zhenhui Li, Lei Bai, David Topping, Zhonghua Zheng
 
 [**Key Points**]
-- 1. 
-- 2.
-- 3.
+-
 </div>
 </div>
 
