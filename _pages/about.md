@@ -53,7 +53,7 @@ I am a dedicated Ph.D. candidate in Environmental Science at The University of M
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Deep Learning</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Physics-guided Deep Learning Tailored for Urban Climate</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Urban Climate Emulator]()
