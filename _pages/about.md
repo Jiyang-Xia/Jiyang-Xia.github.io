@@ -55,10 +55,10 @@ I am a dedicated Ph.D. candidate in Environmental Science at The University of M
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Learning Urban Climate Dynamics via Physics-Guided Urban Surface–Atmosphere Interactions</div><img src='images/UCformer_5.drawio.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Urban Climate Emulator</div><img src='images/UCformer_5.drawio.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Urban Climate Emulator]
+[Learning Urban Climate Dynamics via Physics-Guided Urban Surface–Atmosphere Interactions]
 
 **Jiyang Xia**, Fenghua Ling, Zhenhui Jessie Li, Junjie Yu, Hongliang Zhang, David Topping, Lei Bai, Zhonghua Zheng
 
@@ -66,7 +66,7 @@ I am a dedicated Ph.D. candidate in Environmental Science at The University of M
 - Urban Climate
 - Physics-guided ML
 - Represent Learning
-- Multi-tasks
+- Multi-task
 </div>
 </div>
 
