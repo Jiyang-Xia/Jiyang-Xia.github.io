@@ -22,7 +22,7 @@ I am a dedicated Ph.D. candidate in Environmental Science at The University of M
 
 # 🔥 News
 - *2025.10*: &nbsp;🎉🎉 Awarded the NeurIPS 2025 Scholar Award!
-- *2025.10*: &nbsp;🎉🎉 🔥🔥 My PhD first project has been accepted to NeurIPS 2025!
+- *2025.10*: &nbsp;🎉🎉 🔥🔥 My PhD first project has been accepted to NeurIPS 2025! To the best of our knowledge, it will be the first urban climate study to appear at a top-tier AI venue.
 - *2025.05*: Oral presentation accepted for the 12th International Conference on Urban Climate (Session S1: Digital Twins, AI/ML, and Open Data Science for Urban Climate); presentation forthcoming.
 - *2025.03*: &nbsp;🎉🎉 Awarded the Doctoral Training and Development Support Fund by The University of Manchester!
 - *2025.01*  Appointed as a Graduate Teaching Assistant for The Natural Scientists Toolkit course (2024–2025) at The University of Manchester.
@@ -92,6 +92,7 @@ I am a dedicated Ph.D. candidate in Environmental Science at The University of M
 - *2015.09 - 2020.06*, Southwest Jiaotong University, China.  B.Eng. in Urban and Rural Planning
 
 # 💬 Invited Talks
+- *2025.07* [the 12th International Conference on Urban Climate](https://www.icuc12.eu/home.html) (Session S1: Digital Twins, AI/ML, and Open Data Science for Urban Climate), Rotterdam, Netherlands
 - *2024.08*, [NERC's Digital Gathering 2024](https://www.digital-solutions.uk/dg24/schedule.html), Manchester, UK
 - *2022.07*, 16th International Association for China Planning (IACP) Annual Conference, Session 7.3: Transit-oriented Development (TOD), Wuhan, China, June 23-27, 2022
 
