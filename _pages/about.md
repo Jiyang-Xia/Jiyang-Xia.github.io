@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 ![nature-7175030_1920](../images/nature-7175030_1920.png)<br>  
-I am a dedicated Ph.D. candidate in Environmental Science at The University of Manchester <img src='../images/TAB_col_white_background.png' style='width: 5em;'>, with a strong interest in data science and urban studies. My expertise lies in urban climate modeling, sustainable urban environments, and informed urban planning. My Ph.D. work centers on using data-driven approaches to address urban climate challenges, including capturing the dynamic interactions between urban and the atmosphere, and advancing models of urban surface features.
+I am a dedicated Ph.D. candidate in Environmental Science at The University of Manchester <img src='../images/TAB_col_white_background.png' style='width: 5em;'>, with a focused research agenda on leveraging generative AI and physics-informed deep learning (PINNs) to address complex urban climate challenges. Positioned at the intersection of climate science and data-driven modeling, my work explores the transformative capabilities of generative frameworks and physically grounded neural networks in advancing urban climate understanding. Specifically, my research develops physics-guided deep learning approaches to characterize urban surface-atmosphere interactions; integrates machine learning with numerical climate models to improve the representation of urban morphology; and employs generative AI models to simulate adaptive urban climate scenarios with high spatial fidelity and physical realism.
 
 
 # 🔥 News
