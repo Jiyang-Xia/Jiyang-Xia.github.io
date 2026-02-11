@@ -29,46 +29,11 @@ I am a dedicated Ph.D. candidate in Environmental Science at The University of M
 - *2024.11*: &nbsp;🎉🎉 My academic homepage is online!
 
 # 🗂 Projects 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Generative Adaptation of Urban Climate</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Urban Climate Adaptor]()
+<ul class="actions">
+    <li><a href="https://jiyang-xia.github.io/projectshowcase" class="button primary">View All Projects</a></li>
+</ul>
 
-**Jiyang Xia**
-
-[**Key Points**]
--
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Automated LCZ Mapping Framework</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[AutoML-optimized LCZ Mapping Framework & Urban Climate Modeling]()
-
-**Jiyang Xia**, Yuan Sun, Fenghua Ling, Xinyue Ye, David Topping, Zhonghua Zheng
-
-[**Key Points**]
-- 
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Urban Climate Emulator</div><img src='images/UCformer_5.drawio.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Learning Urban Climate Dynamics via Physics-Guided Urban Surface–Atmosphere Interactions]
-
-**Jiyang Xia**, Fenghua Ling, Zhenhui Jessie Li, Junjie Yu, Hongliang Zhang, David Topping, Lei Bai, Zhonghua Zheng
-
-[**Key Points**]
-- Urban Climate
-- Physics-guided ML
-- Represent Learning
-- Multi-task
-</div>
-</div>
 
 # 📝 Publications 
 
