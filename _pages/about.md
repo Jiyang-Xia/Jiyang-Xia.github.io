@@ -21,6 +21,7 @@ I am a dedicated Ph.D. candidate in Environmental Science at The University of M
 
 
 # 🔥 News
+- *2026.05*: 📢 Grateful to receive Google Cloud Research Credits to support our project on Urban Climate Agents for agentic urban climate research.
 - *2025.10*: &nbsp;🎉🎉 Awarded the NeurIPS 2025 Scholar Award!
 - *2025.10*: &nbsp;🎉🎉 🔥🔥 My PhD first project has been accepted to NeurIPS 2025! To the best of our knowledge, it will be the first urban climate study to appear at a top-tier AI venue.
 - *2025.05*: Oral presentation accepted for the 12th International Conference on Urban Climate (Session S1: Digital Twins, AI/ML, and Open Data Science for Urban Climate); presentation forthcoming.
