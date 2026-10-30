@@ -42,6 +42,13 @@ Alongside my research, I work on reliable LLM agents and model post-training. As
 
 An autonomous system that combines LLMs with the SUEWS physical simulator to diagnose urban climate model errors. It proposes physical hypotheses, tests them through bounded parameter interventions, and uses a physics-based judge to distinguish meaningful improvements from compensating errors. Scenario-conditioned memory helps subsequent experiments learn from failed hypotheses. Evaluated across 20 real urban sites; the associated manuscript is under review.
 
+### Remote Sensing + AutoML: Multi-Source Remote Sensing Fusion and High-Resolution Urban Climate Modeling
+*2025–2026 · [Urban Climate 2026](https://doi.org/10.1016/j.uclim.2026.103001)*
+
+- **Multi-source remote sensing fusion and feature engineering:** Built a multi-source Earth observation data pipeline in Google Earth Engine (GEE), integrating Sentinel-2 multispectral imagery, NDVI/NDBI spectral indices, GHSL building heights, and urban morphology features. Resampled and aligned data across spatial resolutions and time, then extracted features to create a **100 m urban surface feature dataset**.
+- **AutoML classification and benchmarking:** Developed an automated remote sensing classification framework with FLAML, jointly selecting among LightGBM, XGBoost, and Random Forest and tuning their hyperparameters. Used class-balanced sampling and **25 polygon-level bootstrap validation runs** to avoid spatial sample leakage and assess robustness. Achieved **80% classification accuracy in Manchester**, a **5-percentage-point improvement over the WUDAPT baseline**, with cross-region validation in London and Barcelona.
+- **Coupling remote sensing with climate modeling and evaluating extreme weather:** Converted remote-sensing-derived Local Climate Zone (LCZ) classifications into surface parameter inputs for the CLM5 land surface model. Combined these inputs with ERA5-Land meteorological forcing to run climate simulations at approximately **1 km resolution**. Validated heatwave air temperature simulations against **37 ground-based sensors**, reducing RMSE from **0.98 K to 0.90 K** and revealing **1.8 million person-hours of heat exposure** missed by conventional surface representations.
+
 ### Urban Climate RAG
 *2026 · Retrieval and evidence-grounded generation*
 
@@ -64,8 +71,8 @@ A generative modeling project that combines physical constraints with remote sen
 
 ### Published papers
 
-- **Jiyang Xia**, et al. *Optimized LCZ mapping with Automated Machine Learning Reveals Thermal Disparities during a Heatwave Event.* **Urban Climate**, 2026.
-- **Jiyang Xia**, et al. *Learning Urban Climate Dynamics via Physics-Guided Urban Surface–Atmosphere Interactions.* **NeurIPS**, 2025.
+- **Jiyang Xia**, et al. [Optimized LCZ mapping with Automated Machine Learning Reveals Thermal Disparities during a Heatwave Event.](https://doi.org/10.1016/j.uclim.2026.103001) **Urban Climate**, 2026.
+- **Jiyang Xia**, et al. [Learning Urban Climate Dynamics via Physics-Guided Urban Surface–Atmosphere Interactions.](https://proceedings.neurips.cc/paper_files/paper/2025/hash/b71cfefae46909178603b5bc6c11d3ae-Abstract-Conference.html) **NeurIPS**, 2025.
 - **Jiyang Xia**, Yue Zhang*. [Where Are Potential Areas for Transit-Oriented Development (TOD)—Exploring the Demands for Built Environment for TOD Planning.](https://doi.org/10.3390/su14148364) **Sustainability**, 2022, 14, 8364.
 - **Jiyang Xia**, Yue Zhang*. *Research on Spatial Spillover Effect of Highly Educated Migrants in Yangtze River Delta Urban Agglomerations Based on Urban Innovation.* **Areal Research and Development**, 2022, 1, 162–168.
 
