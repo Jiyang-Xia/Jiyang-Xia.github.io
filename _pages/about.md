@@ -53,7 +53,7 @@ A framework that combines multi-source remote sensing with AutoML to map urban s
 A domain-specific knowledge system with two-stage retrieval: vector search followed by cross-encoder reranking. Answers are linked to source passages for traceable evidence. The system combines Qwen inference and embedding models with Ollama, FastAPI, Docker, and Open WebUI.
 
 ### Physics-Guided Urban Climate Emulation
-*2024–2025 · NeurIPS 2025*
+*2024–2025 · [NeurIPS 2025](https://proceedings.neurips.cc/paper_files/paper/2025/hash/b71cfefae46909178603b5bc6c11d3ae-Abstract-Conference.html)*
 
 A multitask Transformer that models urban surface–atmosphere interactions using physical inductive biases. The model achieves **422× faster simulation** than the numerical baseline, improves prediction and cross-city generalization, and supports fine-tuning on real observations. Follow-up research has received NVIDIA academic support.
 
